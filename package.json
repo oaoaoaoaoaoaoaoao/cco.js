@@ -1,0 +1,19 @@
+{
+  "name": "cco.js",
+  "version": "1.0.1",
+  "description": "Библиотека для работы с API \"Симулятора Сотового оператора\"",
+  "main": "src/index",
+  "keywords": [
+    "cco",
+    "cco-api",
+    "cco-js"
+  ],
+  "author": "Pelemen",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.4.1",
+    "node-fetch": "2.6.1",
+    "md5": "^2.3.0"
+  },
+  "devDependencies": {}
+}
